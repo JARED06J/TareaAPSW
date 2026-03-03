@@ -1,0 +1,66 @@
+div{width:300px;height:200px;margin:20px;
+	display:inline-block;
+	border:1px solid #000;
+}
+
+
+.colombia {
+    background-image: linear-gradient(yellow 50%, blue 50%, blue 75%, red 75%);
+}
+
+
+.francia {
+    background-image: linear-gradient(90deg, blue 33.33%, white 33.33%, white 66.66%, red 66.66%);
+}
+
+.italia {
+    background-image: linear-gradient(90deg, green 33.33%, white 33.33%, white 66.66%, red 66.66%);
+}
+
+.alemania {
+    background-image: linear-gradient(black 33.33%, red 33.33%, red 66.66%, yellow 66.66%);
+    color: #fff;
+}
+
+
+.japon {
+    background-image: radial-gradient(circle, red 30%, white 30.5%);
+}
+
+.polonia {
+    background-image: linear-gradient(white 50%, red 50%);
+}
+
+.irlanda {
+    background-image: linear-gradient(90deg, green 33.33%, white 33.33%, white 66.66%, orange 66.66%);
+}
+
+
+.canada {
+    background-image: linear-gradient(90deg, red 25%, white 25%, white 75%, red 75%);
+}
+
+
+.nicaragua {
+    background-image: linear-gradient(#0067b1 33.33%, white 33.33%, white 66.66%, #0067b1 66.66%);
+}
+
+
+.costarica {
+    background-image: linear-gradient(
+        blue 15%, 
+        white 15%, white 30%, 
+        red 35%, red 60%, 
+        white 65%, white 85%, 
+        blue 80%
+    );
+}
+
+
+.australia {
+    background-image: linear-gradient(red 33.33%, white 33.33%, white 66.66%, red 66.66%);
+}
+
+.germania {
+    background-image: linear-gradient(black 33.33%, red 33.33%, red 66.66%, yellow 66.66%);
+}
